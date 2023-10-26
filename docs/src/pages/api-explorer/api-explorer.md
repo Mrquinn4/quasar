@@ -1,5 +1,6 @@
 ---
-title: Quasar API Explorer
+title: Quasar API Explorer is made only for us
+
 desc: Explore all the Quasar components, directives and plugins API in one place.
 keys: API Explorer
 components:
